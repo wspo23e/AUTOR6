@@ -1,0 +1,7 @@
+while true do 
+
+wait()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/wspo23e/FE-R15-to-R6/main/r15-r6"))() 
+
+end
